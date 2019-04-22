@@ -8,7 +8,10 @@ class App extends Component {
     console.table(pokedex)
     return (
       <div className="App">
-        {pokedex.map((pokemon, i) => <Pokecard key={ i } pokemon={ pokemon } />)}
+        <h1>Pokemon</h1>
+        <div className="flex">
+          {pokedex.map((pokemon, i) => <Pokecard key={ i } pokemon={ pokemon } />)}
+        </div>
       </div>
     );
   }
