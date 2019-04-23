@@ -5,7 +5,7 @@ import pokedex from './Pokedex'
 
 class App extends Component {
   render() {
-    console.table(pokedex)
+    // console.table(pokedex)
     return (
       <div className="App">
         <h1>Pokemon</h1>

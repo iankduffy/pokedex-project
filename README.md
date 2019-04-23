@@ -1,6 +1,6 @@
 # Pokemon Project 
 
-Basic React project to help me rebuild my react skills, while following the colt steele react course on Udemy
+Basic React project to help me rebuild my react skills, while following the colt steele react course on Udemy. 
 
 ### `npm start`
 
